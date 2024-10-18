@@ -1,3 +1,5 @@
+*** NEST JS + PRISMA (Postgresql) + SOCKET CRUD ***
+
 # CONFIGURE APPLICATION
 
 ## 1. Setting Environment Variables (.env)
