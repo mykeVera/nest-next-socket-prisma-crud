@@ -35,3 +35,7 @@ $ npx prisma migrate dev --name [name_migrate]
 ```bash
 $ npm i --save @nestjs/websockets @nestjs/platform-socket.io
 ```
+
+Goodbye! Happy coding
+
+Mike Vera
